@@ -1,3 +1,3 @@
 # ZAVBot
  
-nic k vidění (zatím :3)
+Projekt archivován - zjistila jsem, že je skoro nemožné ZAVko hacknout :c
