@@ -1,3 +1,3 @@
 # ZAVBot
  
-# Projekt archivován - zjistila jsem, že je skoro nemožné ZAVko hacknout :c
+# Projekt archivován - je skoro nemožné obejít program ZAV tak, aby mohl program nějakým způsobem fungovat
